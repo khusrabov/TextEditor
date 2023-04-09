@@ -15,13 +15,12 @@
     
 <h2 id="-pycharm">Как запустить текстовый редактор через консоль</h2>
 <details>
-<summary><strong>Первый этап: установка python и tkinter.
-<h5 id="-python3-tkinter-"><em>Если у вас уже установлен python3 и вы можете самостоятельно установить библиотеку tkinter — пропустите этот этап</em></h5></strong></summary>
+<summary><strong>Первый этап: установка python.
+<h5 id="-python3"><em>Если у вас уже установлен python3 - пропустите этот этап</em></h5></strong></summary>
 <p><strong>1. Скачайте python3 с официального <a href="https://www.python.org/downloads/">сайта</a> и установите его.</strong>
 <strong>2. Во время установки <em>обязательно</em> поставьте галочку &quot;Add Python 3.x to PATH&quot;.</strong>
 <img src="https://python-scripts.com/wp-content/uploads/2018/06/win-install-dialog.40e3ded144b0.png" alt="add path screenshot"></p>
 <p><strong>3. Когда установка закончится запустите консоль.</strong>
-<p><strong>4. Установите tkinter.</strong>
 </details>
 <strong>Второй этап: скачивание и запуска проекта.</strong>
 <p><strong>1. Скачайте проект с github любым удобным для вас способом.</strong></p>
@@ -31,18 +30,16 @@
 <details>
 <summary>Команды, которые нужно выполнить, для запуска через консоль:</summary>
 <p><code>git clone git@github.com:khusrabov/TextEditor.git</code></p>
-<p><code>pip install tkinter</code></p>
 <p><code>cd</code></p>
 <p><code>python TextEditor.py</code></p></details>
 
 <h2 id="-pycharm">Как запустить текстовый редактор на PyCharm</h2>
 <p><strong>1. Создайте пустой проект на PyCharm: (<em>File -&gt; New Project</em>)</strong></p>
-<p><strong>2. Установите библиотеку tkinter: (<em>File -&gt; Settings -&gt; Project:&quot;название&quot; -&gt; Python Interpreter -&gt; Install -&gt; tkinter</em>)</strong></p>
-<p><strong>3. Зайдите в убунту-консоль, перейдите в папку с проектом (с помощью cd)</strong></p>
-<p><strong>4. Скачайте проект с github любым удобным для вас способом. </strong></p>
-<p><strong>5. Подождите, пока скачается. После скачивания откройте проект в PyCharm.</strong></p>
-<p><strong>6. Запустите файл TextEditor.py</strong></p>
-<p><strong>7. Запустив текстовый редактор введите свои первые слова!</strong></p>
+<p><strong>2. Зайдите в убунту-консоль, перейдите в папку с проектом (с помощью cd)</strong></p>
+<p><strong>3. Скачайте проект с github любым удобным для вас способом. </strong></p>
+<p><strong>4. Подождите, пока скачается. После скачивания откройте проект в PyCharm.</strong></p>
+<p><strong>5. Запустите файл TextEditor.py</strong></p>
+<p><strong>6. Запустив текстовый редактор введите свои первые слова!</strong></p>
 
 <h1 id="-">Скрины использования функционала и примеры работы биндов:</h1>
 
